@@ -18,7 +18,7 @@ Breeding clownfish with automation.
 
 > Eskom(Power cuts for a fews hours a day, sometimes multiple times a day). Baby clownfish are extemely sensitive to changes. The Heater and LED needs to stay active for 30 days straight.
 
-> How to automatically feed baby clown fish. 
+> How to automatically feed baby clown fish. (Will emphasize on this more soon)
 
 > How to power/connect the pumps and the arudino. I think the pumps require too much power to run off the arudino. What kind of power supply do I need to power the pumps? How do I control the pumps with the arudino if they powered by another source. Is it possible to add this to the UPS or will it require too much power?
 Note: Willing to buy different pump if needed.
