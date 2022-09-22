@@ -31,7 +31,7 @@ Note: Willing to buy different pump if needed. I have this extra power supply bu
 + Power supply (power the arduino + pumps)
 + Ardunio (to manage pump usage based on sensor readings)
 + Small/Soft LED (needs to run 24/7)
-+ Small Battery backup inverter (Something aforable, a few ZAR grand at most.) LED light + heater + air pump. 
++ Small Battery backup inverter (Something affordable, a few ZAR grand at most.) LED light + heater + air pump. 
 + Fish Stuff (None technical.)
 
 
