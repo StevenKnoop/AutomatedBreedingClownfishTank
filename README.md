@@ -22,31 +22,18 @@ Breeding clownfish with automation.
 
 
 ## Equiptment and reason:
-> 50W heater
-
-> Diaphragm Pump EDLP 600 + Mount X 2 (Remove and insert water) https://www.robotics.org.za/KAM-EDLP600
-
-> Water Flow Rate Sensor YF-S401 X 2 (Accurate remove and insert the same amount of water) https://www.robotics.org.za/YF-S401
-
-> Tubing (water flow in and out, feeding and dosage)
-
-> Power supply (power the arduino + pumps)
-Note sure what capcity I need
-
-> Ardunio (to manage pump usage based on sensor readings)
-
-> Small/Soft LED (needs to run 24/7)
-
-> Small Battery backup inverter (Something aforable, a few ZAR grand at most.)
-Requirements:
-LED light + small air pump 
-
-> Fish Stuff (Tank, baby fish food and so on, none technical.)
-
-
++ 50W heater
++ Diaphragm Pump EDLP 600 + Mount X 2 (Remove and insert water) https://www.robotics.org.za/KAM-EDLP600
++ Water Flow Rate Sensor YF-S401 X 2 (Accurate remove and insert the same amount of water) https://www.robotics.org.za/YF-S401
++ Tubing (water flow in and out, feeding and dosage)
++ Power supply (power the arduino + pumps)
++ Ardunio (to manage pump usage based on sensor readings)
++ Small/Soft LED (needs to run 24/7)
++ Small Battery backup inverter (Something aforable, a few ZAR grand at most.) LED light + small air pump 
++ Fish Stuff (None technical.)
 
 
 
 
 ## Available tools:
-3D printer (Ender 3 V2)
++ 3D printer (Ender 3 V2)
