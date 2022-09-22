@@ -16,9 +16,11 @@ Breeding clownfish with automation.
 ## Challanges:
 > How to remove water from the tank without sucking up baby fish(3mm in lenght). I have spoken to experts about this, they all do it manually, any fish they suck up will end up in bucket which get removed and put back into breding tank afterwards.
 
-> Eskom(Power cuts for a fews hours a day, sometimes multiple times a day). Baby clownfish are extemely sensitive to changes. The Heater and LED needs to stuff active for 30 days straight.
+> Eskom(Power cuts for a fews hours a day, sometimes multiple times a day). Baby clownfish are extemely sensitive to changes. The Heater and LED needs to stay active for 30 days straight.
 
 > How to automatically feed baby clown fish. 
+
+> How to power/connect the pumps and the arudino. I am believe the pumps require too much power to run off the arudino. What kind of power supply do I need to power the pumps? How do I control the pumps with the arudino if they powered by another source. Is it possible to add this to the UPS or will it require too much power?
 
 
 ## Equiptment and reason:
