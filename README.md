@@ -12,9 +12,10 @@ Breeding clownfish with automation.
 Breeding clownfish is no easy task, it requires lots of manual labour to have a successful batch. For example, everyday one needs to clean the bottom of the tank to remove all the junk and dead ones. Note that the babies are TINY, only 3mm in length, so it requires a lot of attention to not siphon them out when cleaning or changing the water of the tank. If not removed, the amino will spike and all the fish will die. Then there is also the daily water changes(20% - 50%) as well as the multiple feeding per day. This goes on for about 30 days straight. What makes it even harder is the fact that these babies are extremely delicate. All movements and light needs to be slow or the babies will die from stress. 
 
 ## What needs to be automated:
-1) Daily water changes 20% - 50%
-2) Medicine dosage after each water change
-3) Multiple feeding per day (not required but nice to have)
+1) Daily water changes 20% - 50%.
+2) Daily cleaning of the bottom of the tank.
+3) Medicine dosage after each water change.
+4) Multiple feeding per day (not required but nice to have).
 
 ## Challenges:
 > How to remove water from the tank without sucking up baby fish(3mm in lenght). I have spoken to experts about this, they all do it manually, any fish they suck up will end up in bucket which gets removed and put back into the breding tank afterwards.
